@@ -7,12 +7,14 @@
 - Fixes a ... bug when using ...
 - Resolves an issue where ...
 - ... fixes (ex: Security fixes)
+- Bug fixes and performance improvements
 
 ## Improvement
 - Improves the ... of ... in ...
 - Improves support for ...
 - Improves ...
 - ... improvements for ...
+- [Product Name] is optimized for [OS New Version] so you can upgrade and keep using your favorite app!
 
 ## Prevent
 - Prevent ... when
@@ -23,5 +25,7 @@
 
 ## Others
 - This version/update includes bug fixes/minor app and stability/performance improvements
+- This update contains a bunch of code clean-ups for better app performance
 - The new [Product Name] focuses on ... For more information, please see [Url]
 - Additional bug fixes and stability improvements
+- Every update of our [Product Name] inclues improments for speed and reliability.
